@@ -23,6 +23,7 @@ public/
 # Backup Files
 *.markdown~
 *.md~
+*~
 
 # Apache
 .htpasswd
